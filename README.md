@@ -1,7 +1,9 @@
-# HTML And CSS Template Four
+## **Dashboard - Personal Project**
 
-Course Playlist https://www.youtube.com/watch?v=4OGWPn-Q__I&list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh
+A responsive and user-friendly website developed with **HTML5** and **CSS3**.
 
-### Demo
+- **Modern UI Design**: Focused on clean, modern design principles to enhance navigation and readability.
+- **Interactive Elements**: Customized interactive components such as navigation menus, cards, and progress bars using pure **CSS3**.
+- **Optimized User Experience**: Applied modern design elements for improved visual appeal and functionality.
 
-https://Ahmed_husseinwebschool.github.io/HTML_And_CSS_Template_Four/
+## [Live Demo](https://dashboard-ahmedhussein.vercel.app/)
